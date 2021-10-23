@@ -1,3 +1,6 @@
+# Modify from original Passport-OpenID Connect
+Modify redirect process in strategy.js.
+
 # Passport-OpenID Connect
 
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
