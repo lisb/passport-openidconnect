@@ -1,6 +1,6 @@
 {
   "name": "@lisb/passport-openidconnect",
-  "version": "0.0.2-custom",
+  "version": "0.0.2-custom-3",
   "description": "OpenID Connect authentication strategy for Passport.",
   "keywords": [
     "passport",
